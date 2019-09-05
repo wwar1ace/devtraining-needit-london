@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Find and close all NeedIt tasks more than 21 days overdue, logging the reason for each closure.</description>
+        <internal_name>update_and_close_overdue_needit_tasks</internal_name>
+        <label_cache>[{"name":"6b1fec81-2fd9-4bb4-8c25-33a6aa7d169f.property_value","label":"2➛Property value","type":"string","base_type":"string"},{"name":"4f8b6bca-95d1-449a-b0cc-9f9e62997b1d.follow_up_task","label":"5.1➛Follow-up task","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task","type":"reference","base_type":"reference"},{"name":"89be2e7d-6177-45be-b4bf-874f81d938d5.property_value","label":"1➛Property value","reference_display":"Property value","type":"string","base_type":"string"},{"name":"c75ee12a-99e4-42b9-8ef5-d6e2e3e8241c.item","label":"5➛NeedIt Task Record","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task","type":"reference","base_type":"reference"},{"name":"bd78ca17-2616-41ad-b7a2-88319998ddf2.Count","label":"4➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"bd78ca17-2616-41ad-b7a2-88319998ddf2.Table","label":"4➛NeedIt Task Table","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task","type":"table_name","base_type":"table_name"},{"name":"bd78ca17-2616-41ad-b7a2-88319998ddf2.Records","label":"4➛NeedIt Task Records","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task","type":"records","base_type":"records"},{"name":"afda6cb0-acb8-4a17-a54e-8104918938f2.calculated_date","label":"3➛Calculated date","reference_display":"Calculated date","type":"string","base_type":"string"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Update and Close Overdue NeedIt Tasks</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-05 00:57:48</sys_created_on>
+        <sys_id>50730400db73330059c69235ca961949</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Update and Close Overdue NeedIt Tasks</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_flow_50730400db73330059c69235ca961949</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-05 01:24:59</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_variable_value action="delete_multiple" query="document_key=50730400db73330059c69235ca961949"/>
+</record_update>
