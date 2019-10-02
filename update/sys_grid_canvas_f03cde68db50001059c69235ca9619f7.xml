@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_grid_canvas" unload_date="2019-10-02 18:59:11">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA ROI Calculated Costs">b0dcc676d7700200f215a5f75e61030c</legacy_page>
+        <name>PA ROI Calculated Costs</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-01 21:53:34</sys_created_on>
+        <sys_id>f03cde68db50001059c69235ca9619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA ROI Calculated Costs</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_grid_canvas_f03cde68db50001059c69235ca9619f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-01 21:53:34</sys_updated_on>
+        <related_items_node>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA ROI Calculated Costs">f03cde68db50001059c69235ca9619f7</grid_canvas>
+                <height>10</height>
+                <portal_widget display_value="Created 2015-06-26 07:12:45">44c55187d7700200f215a5f75e6103b2</portal_widget>
+                <posx>0</posx>
+                <posy>20</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-10-01 21:53:34</sys_created_on>
+                <sys_id>343c5220db90001059c69235ca96190c</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>f03cde68db50001059c69235ca9619f7</sys_name>
+                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_343c5220db90001059c69235ca96190c</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-10-01 21:53:34</sys_updated_on>
+                <width>6</width>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone1</dropzone>
+                        <offset>1</offset>
+                        <page display_value="PA ROI Calculated Costs">b0dcc676d7700200f215a5f75e61030c</page>
+                        <summary/>
+                        <sys_created_by>xuejia.lu</sys_created_by>
+                        <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                        <sys_id>44c55187d7700200f215a5f75e6103b2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>xuejia.lu</sys_updated_by>
+                        <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA ROI Calculated Costs">f03cde68db50001059c69235ca9619f7</grid_canvas>
+                                <height>10</height>
+                                <portal_widget display_value="Created 2015-06-26 07:12:45">44c55187d7700200f215a5f75e6103b2</portal_widget>
+                                <posx>0</posx>
+                                <posy>20</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-10-01 21:53:34</sys_created_on>
+                                <sys_id>343c5220db90001059c69235ca96190c</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>f03cde68db50001059c69235ca9619f7</sys_name>
+                                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_343c5220db90001059c69235ca96190c</sys_update_name>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:34</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">44c55187d7700200f215a5f75e6103b2</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>08c55187d7700200f215a5f75e6103b2</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">44c55187d7700200f215a5f75e6103b2</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>0cc55187d7700200f215a5f75e6103b2</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:35</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">44c55187d7700200f215a5f75e6103b2</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>84c55187d7700200f215a5f75e6103b2</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>Projected Hours Spent Monthly by Category (Uses Calculated Duration)</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">44c55187d7700200f215a5f75e6103b2</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>88c55187d7700200f215a5f75e6103b2</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:35</sys_updated_on>
+                                <value>aa021547d7700200f215a5f75e61031e</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>current_page</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">44c55187d7700200f215a5f75e6103b2</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>8cc55187d7700200f215a5f75e6103b2</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>b0dcc676d7700200f215a5f75e61030c</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone2</dropzone>
+                        <offset>1</offset>
+                        <page display_value="PA ROI Calculated Costs">b0dcc676d7700200f215a5f75e61030c</page>
+                        <summary/>
+                        <sys_created_by>xuejia.lu</sys_created_by>
+                        <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                        <sys_id>d4c55187d7700200f215a5f75e6103b5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>xuejia.lu</sys_updated_by>
+                        <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA ROI Calculated Costs">f03cde68db50001059c69235ca9619f7</grid_canvas>
+                                <height>10</height>
+                                <portal_widget display_value="Created 2015-06-26 07:12:45">d4c55187d7700200f215a5f75e6103b5</portal_widget>
+                                <posx>6</posx>
+                                <posy>60</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-10-01 21:53:34</sys_created_on>
+                                <sys_id>383c5220db90001059c69235ca961911</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>f03cde68db50001059c69235ca9619f7</sys_name>
+                                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_383c5220db90001059c69235ca961911</sys_update_name>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:34</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>current_page</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">d4c55187d7700200f215a5f75e6103b5</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>10c55187d7700200f215a5f75e6103b6</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>b0dcc676d7700200f215a5f75e61030c</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">d4c55187d7700200f215a5f75e6103b5</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>18c55187d7700200f215a5f75e6103b5</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>Projected Monthly Expense by Category (Uses Calculated Duration &amp;amp; Volume)</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">d4c55187d7700200f215a5f75e6103b5</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>1cc55187d7700200f215a5f75e6103b5</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:35</sys_updated_on>
+                                <value>2f621947d7700200f215a5f75e61034b</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">d4c55187d7700200f215a5f75e6103b5</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>98c55187d7700200f215a5f75e6103b5</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">d4c55187d7700200f215a5f75e6103b5</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>9cc55187d7700200f215a5f75e6103b5</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:35</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone1</dropzone>
+                        <offset>0</offset>
+                        <page display_value="PA ROI Calculated Costs">b0dcc676d7700200f215a5f75e61030c</page>
+                        <summary/>
+                        <sys_created_by>xuejia.lu</sys_created_by>
+                        <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                        <sys_id>c4c55187d7700200f215a5f75e6103b1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>xuejia.lu</sys_updated_by>
+                        <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA ROI Calculated Costs">f03cde68db50001059c69235ca9619f7</grid_canvas>
+                                <height>10</height>
+                                <portal_widget display_value="Created 2015-06-26 07:12:45">c4c55187d7700200f215a5f75e6103b1</portal_widget>
+                                <posx>0</posx>
+                                <posy>10</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-10-01 21:53:34</sys_created_on>
+                                <sys_id>3c3cde68db50001059c69235ca9619f8</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>f03cde68db50001059c69235ca9619f7</sys_name>
+                                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_3c3cde68db50001059c69235ca9619f8</sys_update_name>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:34</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">c4c55187d7700200f215a5f75e6103b1</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>00c55187d7700200f215a5f75e6103b2</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:35</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_publish</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">c4c55187d7700200f215a5f75e6103b1</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>08c55187d7700200f215a5f75e6103b1</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">c4c55187d7700200f215a5f75e6103b1</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>0cc55187d7700200f215a5f75e6103b1</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>current_page</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">c4c55187d7700200f215a5f75e6103b1</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>80c55187d7700200f215a5f75e6103b2</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>b0dcc676d7700200f215a5f75e61030c</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">c4c55187d7700200f215a5f75e6103b1</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>88c55187d7700200f215a5f75e6103b1</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>Time Spent by Task Category</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">c4c55187d7700200f215a5f75e6103b1</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>8cc55187d7700200f215a5f75e6103b1</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:35</sys_updated_on>
+                                <value>7fe01147d7700200f215a5f75e61034b</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone1</dropzone>
+                        <offset>2</offset>
+                        <page display_value="PA ROI Calculated Costs">b0dcc676d7700200f215a5f75e61030c</page>
+                        <summary/>
+                        <sys_created_by>xuejia.lu</sys_created_by>
+                        <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                        <sys_id>40c55187d7700200f215a5f75e6103b3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>xuejia.lu</sys_updated_by>
+                        <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA ROI Calculated Costs">f03cde68db50001059c69235ca9619f7</grid_canvas>
+                                <height>10</height>
+                                <portal_widget display_value="Created 2015-06-26 07:12:45">40c55187d7700200f215a5f75e6103b3</portal_widget>
+                                <posx>0</posx>
+                                <posy>30</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-10-01 21:53:34</sys_created_on>
+                                <sys_id>783c5220db90001059c69235ca96190d</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>f03cde68db50001059c69235ca9619f7</sys_name>
+                                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_783c5220db90001059c69235ca96190d</sys_update_name>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:34</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">40c55187d7700200f215a5f75e6103b3</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>04c55187d7700200f215a5f75e6103b3</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">40c55187d7700200f215a5f75e6103b3</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>08c55187d7700200f215a5f75e6103b3</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:35</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">40c55187d7700200f215a5f75e6103b3</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>80c55187d7700200f215a5f75e6103b3</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>Projected Hours Spent Quarterly by Category (Uses Calculated Duration)</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">40c55187d7700200f215a5f75e6103b3</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>84c55187d7700200f215a5f75e6103b3</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:35</sys_updated_on>
+                                <value>27b25947d7700200f215a5f75e610319</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>current_page</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">40c55187d7700200f215a5f75e6103b3</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>88c55187d7700200f215a5f75e6103b3</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>b0dcc676d7700200f215a5f75e61030c</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone2</dropzone>
+                        <offset>2</offset>
+                        <page display_value="PA ROI Calculated Costs">b0dcc676d7700200f215a5f75e61030c</page>
+                        <summary/>
+                        <sys_created_by>xuejia.lu</sys_created_by>
+                        <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                        <sys_id>d0c55187d7700200f215a5f75e6103b6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>xuejia.lu</sys_updated_by>
+                        <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA ROI Calculated Costs">f03cde68db50001059c69235ca9619f7</grid_canvas>
+                                <height>10</height>
+                                <portal_widget display_value="Created 2015-06-26 07:12:45">d0c55187d7700200f215a5f75e6103b6</portal_widget>
+                                <posx>6</posx>
+                                <posy>70</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-10-01 21:53:34</sys_created_on>
+                                <sys_id>7c3c5220db90001059c69235ca961912</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>f03cde68db50001059c69235ca9619f7</sys_name>
+                                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_7c3c5220db90001059c69235ca961912</sys_update_name>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:34</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">d0c55187d7700200f215a5f75e6103b6</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>14c55187d7700200f215a5f75e6103b6</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>Projected Quarterly Expense by Category (Uses Calculated Duration &amp;amp; Volume)</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">d0c55187d7700200f215a5f75e6103b6</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>18c55187d7700200f215a5f75e6103b6</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:35</sys_updated_on>
+                                <value>2d039947d7700200f215a5f75e61035c</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>current_page</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">d0c55187d7700200f215a5f75e6103b6</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>1cc55187d7700200f215a5f75e6103b6</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>b0dcc676d7700200f215a5f75e61030c</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">d0c55187d7700200f215a5f75e6103b6</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>94c55187d7700200f215a5f75e6103b6</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">d0c55187d7700200f215a5f75e6103b6</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>98c55187d7700200f215a5f75e6103b6</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:35</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone2</dropzone>
+                        <offset>3</offset>
+                        <page display_value="PA ROI Calculated Costs">b0dcc676d7700200f215a5f75e61030c</page>
+                        <summary/>
+                        <sys_created_by>xuejia.lu</sys_created_by>
+                        <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                        <sys_id>dcc55187d7700200f215a5f75e6103b6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>xuejia.lu</sys_updated_by>
+                        <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA ROI Calculated Costs">f03cde68db50001059c69235ca9619f7</grid_canvas>
+                                <height>10</height>
+                                <portal_widget display_value="Created 2015-06-26 07:12:45">dcc55187d7700200f215a5f75e6103b6</portal_widget>
+                                <posx>6</posx>
+                                <posy>80</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-10-01 21:53:34</sys_created_on>
+                                <sys_id>b03c5220db90001059c69235ca961914</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>f03cde68db50001059c69235ca9619f7</sys_name>
+                                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_b03c5220db90001059c69235ca961914</sys_update_name>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:34</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">dcc55187d7700200f215a5f75e6103b6</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>10c55187d7700200f215a5f75e6103b7</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>Projected Annual Expense by Category (Uses Calculated Duration &amp;amp; Volume)</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">dcc55187d7700200f215a5f75e6103b6</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>14c55187d7700200f215a5f75e6103b7</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:35</sys_updated_on>
+                                <value>46839947d7700200f215a5f75e6103b1</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>current_page</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">dcc55187d7700200f215a5f75e6103b6</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>18c55187d7700200f215a5f75e6103b7</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>b0dcc676d7700200f215a5f75e61030c</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">dcc55187d7700200f215a5f75e6103b6</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>90c55187d7700200f215a5f75e6103b7</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">dcc55187d7700200f215a5f75e6103b6</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>94c55187d7700200f215a5f75e6103b7</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:35</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone1</dropzone>
+                        <offset>3</offset>
+                        <page display_value="PA ROI Calculated Costs">b0dcc676d7700200f215a5f75e61030c</page>
+                        <summary/>
+                        <sys_created_by>xuejia.lu</sys_created_by>
+                        <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                        <sys_id>4cc55187d7700200f215a5f75e6103b3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>xuejia.lu</sys_updated_by>
+                        <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA ROI Calculated Costs">f03cde68db50001059c69235ca9619f7</grid_canvas>
+                                <height>10</height>
+                                <portal_widget display_value="Created 2015-06-26 07:12:45">4cc55187d7700200f215a5f75e6103b3</portal_widget>
+                                <posx>0</posx>
+                                <posy>40</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-10-01 21:53:34</sys_created_on>
+                                <sys_id>bc3c5220db90001059c69235ca96190e</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>f03cde68db50001059c69235ca9619f7</sys_name>
+                                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_bc3c5220db90001059c69235ca96190e</sys_update_name>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:34</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">4cc55187d7700200f215a5f75e6103b3</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>10c55187d7700200f215a5f75e6103b4</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">4cc55187d7700200f215a5f75e6103b3</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>14c55187d7700200f215a5f75e6103b4</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:35</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">4cc55187d7700200f215a5f75e6103b3</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>8cc55187d7700200f215a5f75e6103b3</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>Projected Hours Spent Annually by Category (Uses Calculated Duration)</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">4cc55187d7700200f215a5f75e6103b3</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>90c55187d7700200f215a5f75e6103b4</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:35</sys_updated_on>
+                                <value>6a43d947d7700200f215a5f75e610371</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>current_page</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">4cc55187d7700200f215a5f75e6103b3</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>94c55187d7700200f215a5f75e6103b4</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>b0dcc676d7700200f215a5f75e61030c</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone>dropzone2</dropzone>
+                        <offset>0</offset>
+                        <page display_value="PA ROI Calculated Costs">b0dcc676d7700200f215a5f75e61030c</page>
+                        <summary/>
+                        <sys_created_by>xuejia.lu</sys_created_by>
+                        <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                        <sys_id>58c55187d7700200f215a5f75e6103b4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>xuejia.lu</sys_updated_by>
+                        <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA ROI Calculated Costs">f03cde68db50001059c69235ca9619f7</grid_canvas>
+                                <height>10</height>
+                                <portal_widget display_value="Created 2015-06-26 07:12:45">58c55187d7700200f215a5f75e6103b4</portal_widget>
+                                <posx>6</posx>
+                                <posy>50</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2019-10-01 21:53:34</sys_created_on>
+                                <sys_id>f03c5220db90001059c69235ca961910</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>f03cde68db50001059c69235ca9619f7</sys_name>
+                                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_f03c5220db90001059c69235ca961910</sys_update_name>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:34</sys_updated_on>
+                                <width>6</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">58c55187d7700200f215a5f75e6103b4</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>10c55187d7700200f215a5f75e6103b5</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:35</sys_updated_on>
+                                <value>80b11547d7700200f215a5f75e61031a</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>current_page</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">58c55187d7700200f215a5f75e6103b4</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>14c55187d7700200f215a5f75e6103b5</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>b0dcc676d7700200f215a5f75e61030c</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">58c55187d7700200f215a5f75e6103b4</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>1cc55187d7700200f215a5f75e6103b4</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>Volume of Manual Tasks per Month by Category</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">58c55187d7700200f215a5f75e6103b4</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>90c55187d7700200f215a5f75e6103b5</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2019-10-01 21:53:35</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_publish</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">58c55187d7700200f215a5f75e6103b4</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>98c55187d7700200f215a5f75e6103b4</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2015-06-26 07:12:45">58c55187d7700200f215a5f75e6103b4</portal_section>
+                                <sys_created_by>xuejia.lu</sys_created_by>
+                                <sys_created_on>2015-06-26 14:12:45</sys_created_on>
+                                <sys_id>9cc55187d7700200f215a5f75e6103b4</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>xuejia.lu</sys_updated_by>
+                                <sys_updated_on>2015-06-26 14:12:45</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA ROI Calculated Costs">f03cde68db50001059c69235ca9619f7</grid_canvas>
+                <height>10</height>
+                <portal_widget display_value="Created 2015-06-26 07:12:45">d4c55187d7700200f215a5f75e6103b5</portal_widget>
+                <posx>6</posx>
+                <posy>60</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-10-01 21:53:34</sys_created_on>
+                <sys_id>383c5220db90001059c69235ca961911</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>f03cde68db50001059c69235ca9619f7</sys_name>
+                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_383c5220db90001059c69235ca961911</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-10-01 21:53:34</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA ROI Calculated Costs">f03cde68db50001059c69235ca9619f7</grid_canvas>
+                <height>10</height>
+                <portal_widget display_value="Created 2015-06-26 07:12:45">c4c55187d7700200f215a5f75e6103b1</portal_widget>
+                <posx>0</posx>
+                <posy>10</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-10-01 21:53:34</sys_created_on>
+                <sys_id>3c3cde68db50001059c69235ca9619f8</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>f03cde68db50001059c69235ca9619f7</sys_name>
+                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_3c3cde68db50001059c69235ca9619f8</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-10-01 21:53:34</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA ROI Calculated Costs">f03cde68db50001059c69235ca9619f7</grid_canvas>
+                <height>10</height>
+                <portal_widget display_value="Created 2015-06-26 07:12:45">40c55187d7700200f215a5f75e6103b3</portal_widget>
+                <posx>0</posx>
+                <posy>30</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-10-01 21:53:34</sys_created_on>
+                <sys_id>783c5220db90001059c69235ca96190d</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>f03cde68db50001059c69235ca9619f7</sys_name>
+                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_783c5220db90001059c69235ca96190d</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-10-01 21:53:34</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA ROI Calculated Costs">f03cde68db50001059c69235ca9619f7</grid_canvas>
+                <height>10</height>
+                <portal_widget display_value="Created 2015-06-26 07:12:45">d0c55187d7700200f215a5f75e6103b6</portal_widget>
+                <posx>6</posx>
+                <posy>70</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-10-01 21:53:34</sys_created_on>
+                <sys_id>7c3c5220db90001059c69235ca961912</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>f03cde68db50001059c69235ca9619f7</sys_name>
+                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_7c3c5220db90001059c69235ca961912</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-10-01 21:53:34</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA ROI Calculated Costs">f03cde68db50001059c69235ca9619f7</grid_canvas>
+                <height>10</height>
+                <portal_widget display_value="Created 2015-06-26 07:12:45">dcc55187d7700200f215a5f75e6103b6</portal_widget>
+                <posx>6</posx>
+                <posy>80</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-10-01 21:53:34</sys_created_on>
+                <sys_id>b03c5220db90001059c69235ca961914</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>f03cde68db50001059c69235ca9619f7</sys_name>
+                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_b03c5220db90001059c69235ca961914</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-10-01 21:53:34</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA ROI Calculated Costs">f03cde68db50001059c69235ca9619f7</grid_canvas>
+                <height>10</height>
+                <portal_widget display_value="Created 2015-06-26 07:12:45">4cc55187d7700200f215a5f75e6103b3</portal_widget>
+                <posx>0</posx>
+                <posy>40</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-10-01 21:53:34</sys_created_on>
+                <sys_id>bc3c5220db90001059c69235ca96190e</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>f03cde68db50001059c69235ca9619f7</sys_name>
+                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_bc3c5220db90001059c69235ca96190e</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-10-01 21:53:34</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA ROI Calculated Costs">f03cde68db50001059c69235ca9619f7</grid_canvas>
+                <height>10</height>
+                <portal_widget display_value="Created 2015-06-26 07:12:45">58c55187d7700200f215a5f75e6103b4</portal_widget>
+                <posx>6</posx>
+                <posy>50</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-10-01 21:53:34</sys_created_on>
+                <sys_id>f03c5220db90001059c69235ca961910</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>f03cde68db50001059c69235ca9619f7</sys_name>
+                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_f03c5220db90001059c69235ca961910</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-10-01 21:53:34</sys_updated_on>
+                <width>6</width>
+            </sys_grid_canvas_pane>
+        </related_items_node>
+    </sys_grid_canvas>
+</record_update>
